@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mojtabadehkordi
+- 👋 Hi, I’m Mojtaba Heidari Dehkordi
 - 👀 I'm interested in java and python develop, artificial intelligence, machine learning, VAE (variational autoencoders) and GAN (Generative adversarial network)
 - 🌱 I’m currently learning Artificial intelligence and robotics ()
 - 💞️ I'm looking to collaborate on Deepfake network training color image
